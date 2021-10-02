@@ -1,10 +1,12 @@
-- Hi! 👋 I’m @AndreaPolicarpi ---> M.Sc. in Artificial Intelligence, Unibo 📚 and (unexpectedly) member of the Collegio Superiore 🕵️
+- Hi! 👋 I’m @AndreaPolicarpi ---> M.Sc. in Artificial Intelligence, Unibo 📚 and member of the Collegio Superiore 🕵️
 
-- Italian 💪🍝
+- Italian 💪🍝 (no, i don't break spaghetti in half!🤔)
+
+- Python main 🐍 
 
 - Sometimes you can find me messing with the piano 🎹🎼
 
-- My hot topics 🔥 ---> Machine Learning, Deep Learning, Data Science
+- My hot topics 🔥 ---> Machine Learning, Deep Learning, Data Science (and cool AI stuff in general)
 
 - Reach me 📫 ---> andrea.policarpi@gmail.com
 
