@@ -1,6 +1,6 @@
 - Hi! 👋 I’m @AndreaPolicarpi ---> M.Sc. in Artificial Intelligence, Unibo 📚 and member of the Collegio Superiore 🕵️
 
-- Italian 💪🍝 (no, i don't break spaghetti in half!🤔)
+- Italian 💪🍝 (But my code is not spaghetti😉)
 
 - Python main 🐍 
 
